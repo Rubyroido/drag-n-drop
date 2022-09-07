@@ -1,5 +1,5 @@
-    ## Drag and drop 
+##Drag and drop 
 
-    Тренировочный мини-проект с перетаскиваемым элементом
+Тренировочный мини-проект с перетаскиваемым элементом
     
-    https://rubyroido.github.io/drag-n-drop/
+https://rubyroido.github.io/drag-n-drop/
